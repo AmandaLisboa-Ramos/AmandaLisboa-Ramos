@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmandaLisboa-Ramos
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Love Cats
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
