@@ -16,4 +16,4 @@
 
 ### 🐍 Snake com minhas contribuições no GitHub
 
-![snake gif](https://github.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/blob/output/github-contribution-grid-snake.svg)
