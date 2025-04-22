@@ -18,6 +18,6 @@
   <a href = "mailto:amandalisboa.am@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-lisboa-789a42330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/output/github-contribution-grid-snake.svg)
  
 </div>
