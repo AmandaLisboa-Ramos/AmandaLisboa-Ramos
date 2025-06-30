@@ -1,8 +1,8 @@
 # Oi, eu sou a Amanda Lisboa! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonada por desenvolvimento web e Project Management
-📚 Atualmente estudando React e PostgreSQL 
+💻 Apaixonada por desenvolvimento web
+📚 Atualmente estudando Back-end em Node.js e Monitora de Projetos e Construção de Algoritmos na Unifeso
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
