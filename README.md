@@ -54,6 +54,6 @@ Ah, e no tempo livre, também adoro criar conteúdos e participar de projetos qu
 
 --- 
 
-![Snake animation](https://raw.githubusercontent.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
