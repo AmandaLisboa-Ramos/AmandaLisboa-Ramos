@@ -25,7 +25,7 @@
 Sou dedicada, curiosa e estou sempre em busca de novos aprendizados.  
 Atualmente, foco meus estudos no **desenvolvimento web**, especialmente no **back-end**, mas também tenho um carinho especial pelo front-end.  
 Adoro compartilhar conhecimento e ajudar outras pessoas a crescerem na área de tecnologia 💡  
-Ah, e no tempo livre, também adoro criar conteúdos e participar de projetos que me desafiem!
+Ah, e no tempo livre, gosto de ler livros de romance e jogar algum jogo!
 
 ---
 
