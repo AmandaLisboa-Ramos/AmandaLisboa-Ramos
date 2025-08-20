@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Apaixonada por **Desenvolvimento Web**  
 🌐 Estudando **Back-end com Node.js**  
-📘 Monitora da disciplina **Projeto e Construção de Algoritmos** na **Unifeso**  
+📘 Residente em TIC no SERRATEC 
 
 ---
 
