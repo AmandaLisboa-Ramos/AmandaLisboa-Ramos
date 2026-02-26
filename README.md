@@ -1,42 +1,65 @@
-# 👋 Oi, eu sou a Amanda Lisboa!
+# 👩🏻‍💻 Amanda Lisboa  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonada por **Desenvolvimento Web**  
-🌐 Estudando **Back-end com Node.js**  
-📘 Residente em TIC Software no SERRATEC 
+🚀 **Desenvolvedora Backend | Java • Spring Boot • APIs REST**  
+🎓 Último semestre de Análise e Desenvolvimento de Sistemas – UNIFESO  
+💼 Estagiária de Desenvolvimento de Integração Backend na Best2bee  
+🏅 Certificada pela Residência em TIC – Serratec (790h)
 
 ---
 
-## 🚀 Tecnologias que estou explorando:
+## 💡 Sobre mim
+
+Sou desenvolvedora backend em formação, com foco na construção de APIs REST, integrações entre sistemas e organização de código com boas práticas.
+
+Tenho experiência com:
+
+- Desenvolvimento em **Java + Spring Boot**
+- Modelagem e integração com **PostgreSQL e MySQL**
+- Containerização com **Docker**
+- Documentação com **Swagger**
+- Versionamento com **Git/GitHub**
+- Metodologias ágeis (Scrum)
+
+Também possuo base em **JavaScript e React**, o que me permite entender bem a comunicação entre front-end e back-end.
+
+Gosto de organizar sistemas como quem monta um quebra-cabeça lógico: cada camada no seu lugar, cada responsabilidade bem definida.
+
+---
+
+## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ---
 
-## ✨ Sobre mim:
+## 📌 Projetos em destaque
 
-Sou dedicada, curiosa e estou sempre em busca de novos aprendizados.  
-Atualmente, foco meus estudos no **desenvolvimento web**, especialmente no **back-end**, mas também tenho um carinho especial pelo front-end.  
-Adoro compartilhar conhecimento e ajudar outras pessoas a crescerem na área de tecnologia 💡  
-Ah, e no tempo livre, gosto de ler livros de romance e jogar algum jogo!
+🔹 **ProjetoEcommerce-API**  
+API backend com rotas REST, lógica de negócios e integração com banco de dados.  
+-- https://github.com/AmandaLisboa-Ramos/ProjetoEcommerce-API  
+
+🔹 **BlogJardim**  
+Integração entre front-end e back-end com organização em camadas e consumo de API.  
+-- https://github.com/AmandaLisboa-Ramos/blogJardim  
+
+🔹 **TrabalhoFinalPooGrupo3**  
+Projeto orientado a objetos com organização de classes e aplicação de boas práticas de POO.  
+-- https://github.com/AmandaLisboa-Ramos/TrabalhoFinalPooGrupo3  
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Contato
 
 <div>
-  <a href="https://www.instagram.com/amanda_lisboa_ramos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
   <a href="mailto:amandalisboa.am@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/amanda-lisboa-789a42330/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -52,8 +75,6 @@ Ah, e no tempo livre, gosto de ler livros de romance e jogar algum jogo!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLisboa-Ramos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
---- 
+---
 
 ![Snake animation](https://github.com/AmandaLisboa-Ramos/AmandaLisboa-Ramos/blob/output/github-contribution-grid-snake-dark.svg)
-
----
