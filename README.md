@@ -1,8 +1,12 @@
-# 👩🏻‍💻 Amanda Lisboa  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1275f,100:FF69B4&height=180&section=header&text=Amanda%20Lisbôa&fontSize=60&fontColor=ffffff&animation=twinklingblinking"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;APIs+REST+%7C+Docker;Always+learning+something+new" />
 </p>
+
+
 
 🚀 **Desenvolvedora Backend | Java • Spring Boot • APIs REST**  
 🎓 Último semestre de Análise e Desenvolvimento de Sistemas – UNIFESO  
@@ -58,6 +62,12 @@ Projeto orientado a objetos com organização de classes e aplicação de boas p
 -- https://github.com/AmandaLisboa-Ramos/TrabalhoFinalPooGrupo3  
 
 ---
+## Consistência de Contribuições
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmandaLisboa-Ramos&theme=dracula&hide_border=true" />
+</p>
+
+---
 
 ## 📫 Contato
 
@@ -71,13 +81,9 @@ Projeto orientado a objetos com organização de classes e aplicação de boas p
 </div>
 
 ---
+## 📊 Atividade no GitHub
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaLisboa-Ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLisboa-Ramos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![3D Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmandaLisboa-Ramos&theme=dracula)
 
 ---
 
