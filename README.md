@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1275f,100:FF69B4&height=180&section=header&text=Amanda%20Lisbôa&fontSize=60&fontColor=ffffff&animation=twinklingblinking"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Amanda%20Lisb%C3%B4a&fontSize=55&color=0:7F3FBF,100:e1275f&stroke=ffffff&fontColor=ffffff" />
 </p>
 
 <p align="center">
