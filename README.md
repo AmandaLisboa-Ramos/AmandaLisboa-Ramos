@@ -64,9 +64,9 @@ Projeto orientado a objetos com organização de classes e aplicação de boas p
 ---
 ## Consistência de Contribuições
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmandaLisboa-Ramos&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaLisboa-Ramos&theme=dracula&hide_border=true" />
 </p>
----
+
 
 ## 📫 Contato
 
